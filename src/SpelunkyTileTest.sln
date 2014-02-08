@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpelunkyTileTest", "SpelunkyTileTest\SpelunkyTileTest\SpelunkyTileTest.csproj", "{FE713FA7-5429-4B10-8A11-D77CFB04642A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C9944541-2856-423E-86F4-088CC1705D99} = {C9944541-2856-423E-86F4-088CC1705D99}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpelunkyTileTestContent", "SpelunkyTileTest\SpelunkyTileTestContent\SpelunkyTileTestContent.contentproj", "{E3AA3C8E-8084-45F7-8860-BCCD18A07993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileGenerator", "TileGenerator\TileGenerator.csproj", "{C9944541-2856-423E-86F4-088CC1705D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Debug|x86.ActiveCfg = Debug|x86
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Debug|x86.Build.0 = Debug|x86
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Release|Any CPU.ActiveCfg = Release|x86
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Release|x86.ActiveCfg = Release|x86
+		{FE713FA7-5429-4B10-8A11-D77CFB04642A}.Release|x86.Build.0 = Release|x86
+		{E3AA3C8E-8084-45F7-8860-BCCD18A07993}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E3AA3C8E-8084-45F7-8860-BCCD18A07993}.Debug|x86.ActiveCfg = Debug|x86
+		{E3AA3C8E-8084-45F7-8860-BCCD18A07993}.Release|Any CPU.ActiveCfg = Release|x86
+		{E3AA3C8E-8084-45F7-8860-BCCD18A07993}.Release|x86.ActiveCfg = Release|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Debug|x86.ActiveCfg = Debug|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Debug|x86.Build.0 = Debug|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Release|Any CPU.ActiveCfg = Release|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Release|x86.ActiveCfg = Release|x86
+		{C9944541-2856-423E-86F4-088CC1705D99}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

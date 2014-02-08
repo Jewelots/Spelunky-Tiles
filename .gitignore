@@ -1,0 +1,15 @@
+/src/TileGenerator/obj
+/src/TileGenerator/bin
+/src/TileGenerator/TileGenerator.csproj.Debug.cachefile
+/src/TileGenerator/TileGenerator.csproj.user
+
+/src/SpelunkyTileTest/SpelunkyTileTest/obj
+/src/SpelunkyTileTest/SpelunkyTileTest/bin
+/src/SpelunkyTileTest/SpelunkyTileTest/SpelunkyTileTest.csproj.Debug.cachefile
+/src/SpelunkyTileTest/SpelunkyTileTest/SpelunkyTileTest.csproj.user
+
+/src/SpelunkyTileTest/SpelunkyTileTestContent/obj
+/src/SpelunkyTileTest/SpelunkyTileTestContent/bin
+/src/SpelunkyTileTest/SpelunkyTileTestContent/SpelunkyTileTestContent.contentproj.user
+
+/src/SpelunkyTileTest.suo
