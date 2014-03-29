@@ -68,7 +68,7 @@ This method is flexible and can easily be applied to multiple tilesets. This is 
 
 ![BorderPassIce](/wiki-images/tiles_with_borders_2.png)
 
-## The testbed
+#The testbed
 
 The main runnable portion of the solution is a testbed for use in testing. It currently runs realtime with the user clicking the mouse buttons to add (left mouse) or remove (right mouse) blocks, and the entire tile grid is recalculated on any change.
 
